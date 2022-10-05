@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simohonnane
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Full-Stack Dev
+- 🌱 I’m a Full-Stack Dev
 - 💞️ I’m looking to start a new company for doing multiple project 
 - 📫 How to reach me : my mail is simohonnane55@gmail.com
 
