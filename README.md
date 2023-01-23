@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @simohonnane
+- 👋 Hi, I’m @bugsbunny
 - 👀 I’m interested in Web Development 
 - 🌱 I’m a Full-Stack Dev
-- 💞️ I’m looking to start a new company for doing multiple project 
+- 💞️ I’m looking to learn new things to improve my skills
 - 📫 How to reach me : my mail is simohonnane55@gmail.com
 
 <!---
