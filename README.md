@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bugsbunny
-- 👀 I’m interested in Web Development 
-- 🌱 I’m a Full-Stack Dev
+- 👋 Hi, I’m Mohammed Hannane
+- 👀 I’m interested in Tecnology 
+- 🌱 I’m a IT Student 
 - 💞️ I’m looking to learn new things to improve my skills
 - 📫 How to reach me : my mail is simohonnane55@gmail.com
 
