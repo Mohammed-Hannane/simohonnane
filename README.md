@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Hannane
-- 👀 I’m interested in Tecnology 
+- 👀 I’m interested in Technology 
 - 🌱 I’m a IT Student 
 - 💞️ I’m looking to learn new things to improve my skills
 - 📫 How to reach me : my mail is simohonnane55@gmail.com
